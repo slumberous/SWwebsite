@@ -58,6 +58,10 @@
   position: fixed;
 }
 
+#icn{
+  float:right;
+}
+
 
 .films{
 
@@ -68,7 +72,10 @@ box-shadow: 0px 0px 46px #0000000F;
 opacity: 1;
 margin-left: 305px;
 margin-top: 194px;
+padding: 10px;
 }
+
+
 .starship
 {
 width: 160px;
@@ -77,8 +84,13 @@ background: #FFFFFF 0% 0% no-repeat padding-box;
 box-shadow: 0px 0px 46px #0000000F;
 opacity: 1;
 margin-left: 500px;
-margin-top: -160px;
+
+margin-top: -194px;
+padding: 10px;
 }
+
+
+
 .people
 {
 width: 160px;
